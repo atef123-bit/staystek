@@ -1,0 +1,7 @@
+{
+  "name": "AMIS Luxury Store",
+  "description": "A high-end, responsive luxury fashion and lifestyle e-commerce platform powered by Firebase Realtime Database and Authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
